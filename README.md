@@ -46,7 +46,7 @@ This Repository contains all GIT and GITHUB files
  2|datta
  3|inavolu
  - [x] #739
-- [y] https://github.com/octo-org/octo-repo/issues/740
+- [x] https://github.com/octo-org/octo-repo/issues/740
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
