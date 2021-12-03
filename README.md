@@ -21,6 +21,11 @@ This Repository contains all GIT and GITHUB files
 
 ~~**HELLO HAI HOW ARE YOU**~~
 
+~~THIS IS USED FOR STRINKING~~
+
+~~***VRSEC***~~
+
+
 
 
 
